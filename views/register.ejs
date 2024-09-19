@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+	<form action="/register" method ="POST">
+		<label> Username
+			<input type="text" required name ="username" value = "<%= locals.username%>" />
+		</label>
+		<br>
+		<label> Password
+			<input type="text" required name ="password" value = "<%= locals.password%>" />
+		</label>
+		<br>
+		<button type ="submit">Submit</button>
+	</form>
+</body>
+</html>

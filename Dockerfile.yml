@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+	
+<h> Please Enter Your Name </h>
+<br>
+mariadb -u root -p -h localhost
+<br>
+
+<form action="user.php" method="post">
+	<input type = "text" name="name"><br>
+	<input type="submit">
+</form>
+
+</body>
+</html>
+
+
