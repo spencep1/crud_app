@@ -23,6 +23,6 @@ Clicking the view all button will let you view all of the pokemon that have been
 Entering a name and clicking search will allow you to search up a specific pokemon to view the data of.<br />
 ![image](https://github.com/user-attachments/assets/afff85f0-3843-462e-aa7d-76756a328c49)<br />
 <br />
-
+A diagram that shows the use flow of the website
 ![image](https://github.com/user-attachments/assets/57b7e715-6bf9-4f91-bb35-e1b3678204c7)
 
