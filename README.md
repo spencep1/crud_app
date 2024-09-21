@@ -23,17 +23,5 @@ Clicking the view all button will let you view all of the pokemon that have been
 Entering a name and clicking search will allow you to search up a specific pokemon to view the data of.<br />
 ![image](https://github.com/user-attachments/assets/afff85f0-3843-462e-aa7d-76756a328c49)<br />
 <br />
-<img width="767" alt="crud app picture" src="https://github.com/user-attachments/assets/3f956e2c-ade2-4e2a-9f74-0443d61d734b">
-
-
-
-
-
-
-
-
-
-
-
 
 <img width="767" alt="crud app picture" src="https://github.com/user-attachments/assets/8469ab2d-124b-4fe7-9101-6c8aac869ccb">
