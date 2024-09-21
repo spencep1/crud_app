@@ -24,4 +24,5 @@ Entering a name and clicking search will allow you to search up a specific pokem
 ![image](https://github.com/user-attachments/assets/afff85f0-3843-462e-aa7d-76756a328c49)<br />
 <br />
 
-<img width="767" alt="crud app picture" src="https://github.com/user-attachments/assets/8469ab2d-124b-4fe7-9101-6c8aac869ccb">
+![image](https://github.com/user-attachments/assets/57b7e715-6bf9-4f91-bb35-e1b3678204c7)
+
